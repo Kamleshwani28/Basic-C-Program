@@ -30,6 +30,4 @@ void main()
 		printf("\nNo is Not prime");
 	}
 	getch();
-
-
 }
